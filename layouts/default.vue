@@ -21,14 +21,6 @@
 </template>
 
 <style scoped>
-  body {
-    margin: 0;
-    padding: 0;
-    display: flex;
-    flex-direction: column;
-    height: 100vh;
-  }
-
   main {
     display: flex;
     flex-direction: column;
